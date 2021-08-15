@@ -1,0 +1,5 @@
+REGION : us-west-1
+KEYNAME : newDEvops
+IMAGE : ami-04b6c97b14c54de18
+SGNAME : QASG
+SUBID : subnet-074363c264da13ddd
