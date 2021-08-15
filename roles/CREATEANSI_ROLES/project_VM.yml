@@ -1,0 +1,4 @@
+- name : "Create EC2 Instances"
+  hosts : localhost
+  roles :
+    - role : CREATEANSI_ROLES
